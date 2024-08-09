@@ -1,1 +1,1 @@
-Решение СЛАУ при помощи MPI. Используя разные комбинации функций приема и передачи сообщений.
+Solving systems of linear equations (SLAE) using MPI, utilizing different combinations of message passing and receiving functions.
